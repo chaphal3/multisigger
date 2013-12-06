@@ -3,5 +3,6 @@ A 2 of 2 escrow frontend for bitcoind.
 This project is for me to learn programming stuffs.
 
 Currently it functions like a turn-based game and is written in bash.
+Actually, currently it does not function.
 
 It may eventually be built into a website, ported to other languages, etc.
